@@ -1,8 +1,8 @@
 { 
-     "firstName": “Jace”, 
-     "lastName": “Horner”, 
-     "preferredName": “Jace”, 
-     "teamName": “Ocelots”, 
-     "seatLocation": “0-2“, 
-     "roles": ["Team member", “Scrum Master”]
+     "FirstName": “Jace”, 
+     "LastName": “Horner”, 
+     "PreferredName": “Jace”, 
+     "TeamName": “Ocelots”, 
+     "SeatLocation": “0-2“, 
+     "Roles": ["Team member"]
 }
